@@ -1,6 +1,6 @@
 # Arquitetura de computadores
 
-[PROCESSAMENTO EM PARALELO:](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509.md)
+[PROCESSAMENTO EM PARALELO:](./PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509.md)
 
 ### Arquitetura de computadores refere-se ao design e organização de componentes físicos e lógicos de um computador.
 
@@ -27,15 +27,15 @@
 
 **ARQUITETURA HARVARD**
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled.png)
+![Untitled](./Untitled.png)
 
 **ARQUITETURA VON NEAUMAN**
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%201.png)
+![Untitled](./Untitled%201.png)
 
 ### PROCESSO QUE A CPU SEGUE PARA EXECUTAR INSTRUÇÕES DE UM PROGRAMA:
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%202.png)
+![Untitled](./Untitled%202.png)
 
 Por fim, vale ressaltar que a arquitetura de Von Neumann tem suas limitações(gargalo). Uma das principais limitação  e a na velocidade de processamento, uma vez que a CPU deve acessar a memoria para cada instrução e dado que processa. Outra limitação é que o processamento em paralelo é difícil de ser implementado de forma eficiente, uma vez que a CPU executa instruções sequencialmente. Para contornar essas limitações, foram desenvolvidas outras arquiteturas, como a arquitetura SIMD (Single Instruction Multiple Data) e a arquitetura MIMD (Multiple Instruction Multiple Data).
 
@@ -56,7 +56,7 @@ Desenvolveu o conceito de uma máquina teórica → modelo de computador;
 > Uma máquina de Turing é uma maquina universal, ela é capaz de simular qualquer computador moderno.
 > 
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%203.png)
+![Untitled](./Untitled%203.png)
 
 Em resumo a máquina de Turing é um modelo teórico de computador em que temos uma fita infinita dividida em células, uma cabeça de leitura/escrita, e um conjunto de regras e estados que permitem que a máquina execute operações matemáticas e lógicas. CONSIDERADA UMA MÁQUINA UNIVERSAL
 
@@ -104,7 +104,7 @@ Hardware vc chuta e o Software vc xinga
 - Processador
 - Periféricos
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%204.png)
+![Untitled](./Untitled%204.png)
 
 ### Sistemas operacionais
 
@@ -117,15 +117,15 @@ Um sistema operacional é um programa  intermediário que gerencia os recursos d
 - **Sistemas operacionais de mainframes:** São projetados para computadores de grande porte, como o da IBM Z/OS.
 - **Sistemas operacionais embarcados:** São sistemas operacionais que são usados em dispositivos eletrônicos, alguns deles são Linux, FreeRTOS e  VxWorks.
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%205.png)
+![Untitled](./Untitled%205.png)
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%206.png)
+![Untitled](./Untitled%206.png)
 
 ### UNIX
 
 Unix é um sistema operacional criado na década de 1960, que oferece uma interface de linha de comando (CLI) para interagir com o sistema. É conhecido por sua robustez, estabilidade e escalabilidade, e é amplamente utilizado em academia, indústria e governo. Algumas de suas características incluem um sistema de arquivos hierárquico, capacidade de rede, suporte a multitarefa e multiprocessamento, e o uso de "pipes" e "prompts" para processamento de dados.
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%207.png)
+![Untitled](./Untitled%207.png)
 
 Algorithm: sequência de passos
 
@@ -184,6 +184,6 @@ Framework: coleção de bibliotecas ou componentes que são usados para desenvol
 - **Shell:** Interface que permite aos usuários comunicar-se com o kernel através de comandos ou uma interface gráfica.
 - **Utilitários de Sistema:** Conjunto de ferramentas para configurar o sistema operacional, monitorar seu desempenho e realizar tarefas administrativas.
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%208.png)
+![Untitled](./Untitled%208.png)
 
-![Untitled](Arquitetura%20de%20computadores%20206167dcaafc43eaa31484bb3de942a7/Untitled%209.png)
+![Untitled](./Untitled%209.png)

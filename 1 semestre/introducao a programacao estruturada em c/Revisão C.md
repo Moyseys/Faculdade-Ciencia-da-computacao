@@ -2,9 +2,9 @@
 
 DIAGRAMAS:
 
-![Untitled](Revisa%CC%83o%20C%20fffc472b60f941fe88d49e348e21679b/Untitled.png)
+![Untitled](./Revisão%20C/Untitled.png)
 
-![Untitled](Revisa%CC%83o%20C%20fffc472b60f941fe88d49e348e21679b/Untitled%201.png)
+![Untitled](./Revisão%20C/Untitled%201.png)
 
 IDENTIFICADORES:
 
@@ -20,7 +20,7 @@ int → números inteiros, tanto positivos quanto negativos
 
 float e double
 
-![Untitled](Revisa%CC%83o%20C%20fffc472b60f941fe88d49e348e21679b/Untitled%202.png)
+![Untitled](./Revisão%20C/Untitled%202.png)
 
 características principais da linguagem C:
 

@@ -6,7 +6,7 @@
 
 Em uma rede de computadores há quatro principais tipos de atrasos, eles estão representados na imagem.
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled.png)
 
 ### Processamento nodal
 
@@ -61,7 +61,7 @@ O encapsulamento é uma uma forma de adicionar informações a mensagem enviada 
 
          
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%201.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%201.png)
 
 # Camada de aplicação
 
@@ -73,14 +73,14 @@ Dentro da camada de aplicação há dois tipos de arquiteturas, são elas Client
 
 ### **Arquitetura Cliente-Servidor**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%202.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%202.png)
 
 - **Web Browsing**: Navegador (cliente) acessa servidores web.
 - **E-mail**: Aplicativos de e-mail (cliente) conectam-se a servidores de e-mail.
 - **Banco de Dados**: Aplicativos de banco de dados (cliente) acessam servidores de banco de dados.
 - **Aplicações de Negócios**: Softwares de ERP (cliente) utilizam servidores ERP.
     
-    ![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%203.png)
+    ![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%203.png)
     
 - **Mensagens Instantâneas**: Aplicativos de mensagens (cliente) se comunicam via servidores centralizados.
 
@@ -117,15 +117,15 @@ A web foi concebida no CERN em 1991 como uma maneira de permitir que grupos de c
 
 **Estrutura de uma mensagem HTTP**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%204.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%204.png)
 
 **Request**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%205.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%205.png)
 
 **Response**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%206.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%206.png)
 
 ### Serviço de Correio (Protocolos SMTP, IMAP e POP)
 
@@ -134,7 +134,7 @@ A arquitetura do sistema de correio eletrônico é construída com base em **do
 - **Agente do usuário:** O **agente do usuário** é o **programa** que faz a interface do usuário com o sistema de correio eletrônico. É por meio dele que o **usuário.**
 - **Agentes** de **transferência de mensagens:** Já os **agentes** de **transferência de mensagens** são os responsáveis por fazer com que elas cheguem até o destino. Eles são mais conhecidos como **servidores** de **correio eletrônico**.
     
-    ![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%207.png)
+    ![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%207.png)
     
 
 **SMTP**
@@ -157,7 +157,7 @@ Assim como o POP3, o IMAP (*Internet Message Access Protocol*) permite que um us
 
 Isso será particularmente útil para usuários que não utilizarem sempre o mesmo computador, pois permite que suas mensagens sejam acessadas a partir de qualquer sistema. Definido pela RFC 3501, o IMAP também fornece mecanismos para criar, excluir e manipular várias caixas de correio no servidor.
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%208.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%208.png)
 
 > **Atenção!**
 > 
@@ -171,7 +171,7 @@ Isso será particularmente útil para usuários que não utilizarem sempre o mes
 
 Sistema de resolução de nomes DNS.
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%209.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%209.png)
 
 Aqui estão alguns serviços oferecidos por esse protocolo:
 
@@ -180,7 +180,7 @@ Aqui estão alguns serviços oferecidos por esse protocolo:
 - Distribuição de carga;
 - Descoberta de nomes de hospedeiros (mapeamento reverso).
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%2010.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%2010.png)
 
 **Genéricos**
 
@@ -198,22 +198,22 @@ Aqui estão alguns serviços oferecidos por esse protocolo:
 
 **Consulta iterativa**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%2011.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%2011.png)
 
 **Consulta recursiva**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%2012.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%2012.png)
 
 ## TCP persistente X TCP não persistente
 
 **TCP Persistente**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%2013.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%2013.png)
 
 Em uma conexão TCP persistente, uma vez que a conexão é estabelecida entre o cliente e o servidor, ela permanece aberta e ativa durante múltiplas transações, permitindo a troca contínua de dados sem precisar reestabelecer a conexão.
 
 **TCP Não Persistente**
 
-![Untitled](Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de/Untitled%2014.png)
+![Untitled](./Resumo%20para%20AV1%20-%201°%20Semestre/Untitled%2014.png)
 
 Em uma conexão TCP não persistente, a conexão é aberta para cada transação individual e fechada imediatamente após a conclusão da transação, exigindo a reabertura da conexão para cada novo pedido.

@@ -13,11 +13,11 @@
 
 [https://www.notion.so](https://www.notion.so)
 
-[Estudo](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Estudo%20772ea27cb486452fb9013f1298fe607f.md)
+[Estudo](./Fundamentos%20de%20redes%20de%20computadores/Estudo.md)
 
-[Correção](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Correc%CC%A7a%CC%83o%2064f5dc3711974162ac5944ffabb489fb.md)
+[Correção](./Fundamentos%20de%20redes%20de%20computadores/Correção.md)
 
-[Resumo para AV1 - 1° Semestre](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Resumo%20para%20AV1%20-%201%C2%B0%20Semestre%20081c18f92d264b7eb9530bcc4a1fa7de.md)
+[Resumo para AV1 - 1° Semestre](./Fundamentos%20de%20redes%20de%20computadores/Resumo%20para%20AV1%20-%201°%20Semestre.md)
 
 ## 12/03
 
@@ -53,7 +53,7 @@ COMUTAÇÃO POR PACOTE
 - rede determinista, quando se estabelece circuito se consegue estabelecer uma comunicação (no caso a outra é isso, essa não é determinista)
 - compartilha um mesmo canal assim como uma avenida compartilha passagem para vários carro
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled.png)
 
 - necessidades para o funcionamento
 
@@ -65,7 +65,7 @@ esse endereço chama IP(Internet Protocol)
 
 endereço de IP
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled%201.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled%201.png)
 
 - controle de fluxo (estabelecer regras de como trocar dados e remontar informação)
 
@@ -107,7 +107,7 @@ A Camada de Aplicação é a camada superior da pilha de protocolos da internet 
 
 Portas de redes: usadas para diferenciar os processos no lado do cliente com alocação dinâmica
 
-![Desenho de rede.png](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Desenho_de_rede.png)
+![Desenho de rede.png](./Fundamentos%20de%20redes%20de%20computadores/Desenho_de_rede.png)
 
 - P1 - processo 01→ Aba navegador
 - P2 - processo 02 →Aba navegador
@@ -119,7 +119,7 @@ DNS Domain name system: protocolo que faz a tradução de nomes para ips
 
 → a seta representa o DNS
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled%202.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled%202.png)
 
 ## 26/03
 
@@ -190,10 +190,10 @@ Função é delimitar as possibilidades de IP’s dentro de uma sub-rede
 
 Exemplo: 
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled%203.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled%203.png)
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled%204.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled%204.png)
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled%205.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled%205.png)
 
-![Untitled](Fundamentos%20de%20redes%20de%20computadores%209ae58a44291d492cb14cfee368d016b7/Untitled%206.png)
+![Untitled](./Fundamentos%20de%20redes%20de%20computadores/Untitled%206.png)

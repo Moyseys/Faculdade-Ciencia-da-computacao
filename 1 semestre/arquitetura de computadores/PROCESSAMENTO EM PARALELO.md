@@ -22,14 +22,14 @@ Máquinas CISC possuem um grande conjunto de instruções, de tamanhos variávei
 
 Arquitetura RISC tem como principal objetivo simplificar as instruções de modo que elas possam ser executadas mais rapidamente, cada instrução executa apenas uma operação que são todas do mesmo tamanho com o mesmo formato (MAIOR PARTE DAS ESTRUTURAS SÃO RISC)
 
-![Untitled](PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509/Untitled.png)
+![Untitled](./PROCESSAMENTO%20EM%20PARALELO/Untitled.png)
 
-![Untitled](PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509/Untitled%201.png)
+![Untitled](./PROCESSAMENTO%20EM%20PARALELO/Untitled%201.png)
 
-![Untitled](PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509/Untitled%202.png)
+![Untitled](./PROCESSAMENTO%20EM%20PARALELO/Untitled%202.png)
 
-![Untitled](PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509/Untitled%203.png)
+![Untitled](./PROCESSAMENTO%20EM%20PARALELO/Untitled%203.png)
 
-![Untitled](PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509/Untitled%204.png)
+![Untitled](./PROCESSAMENTO%20EM%20PARALELO/Untitled%204.png)
 
-![Untitled](PROCESSAMENTO%20EM%20PARALELO%20bef4e51699164f01acab7c03d6ed7509/Untitled%205.png)
+![Untitled](./PROCESSAMENTO%20EM%20PARALELO/Untitled%205.png)
