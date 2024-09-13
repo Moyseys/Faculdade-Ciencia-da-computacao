@@ -1,19 +1,27 @@
 public class Aluno {
   private String nome;
   private int idade;
+  private float nota;
 
-  public Aluno(String nome, int idade) {
-    this.nome = nome;
-    this.idade = idade;
+  public void setNota(float nota) {
+    this.nota = nota;
   }
 
-  public void mostrarNomeeIdade() {
+  public float getNota() {
+    return this.nota;
+  }
+
+  public void setNome(String nome) {
+    this.nome = nome;
+  }
+
+  public String getNome() {
+    return this.nome;
+  }
+
+  public void mostrarInformacoes() {
     System.out.println("Nome: " + this.nome);
     System.out.println("idade: " + this.idade);
-  }
-
-  public static void main(String[] args) {
-    Aluno a = new Aluno("Toddy", 7);
-    a.mostrarNomeeIdade();
+    System.out.println("Nota: " + this.nota);
   }
 }
