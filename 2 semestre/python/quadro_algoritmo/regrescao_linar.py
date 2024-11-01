@@ -3,7 +3,7 @@ from datetime import datetime
 import numpy as np
 from sklearn.linear_model import LinearRegression
 import pandas as pd
-from dados import despesas 
+from data.dados import despesas 
 import matplotlib.pyplot as plt
 
 despesas_formatada = {}

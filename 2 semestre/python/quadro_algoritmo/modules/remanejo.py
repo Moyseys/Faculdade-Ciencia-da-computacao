@@ -1,7 +1,7 @@
 import colorama
 from colorama import Fore, Style
 
-from exibicao import exibir_dados
+from utils.exibicao import exibir_dados
 
 colorama.init(autoreset=True)
 

@@ -1,0 +1,6002 @@
+[
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 50,
+    "data": "2024-07-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 30,
+    "data": "2024-07-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 100,
+    "data": "2024-07-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 80,
+    "data": "2024-07-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 20,
+    "data": "2024-07-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 200,
+    "data": "2024-07-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 60,
+    "data": "2024-07-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 40,
+    "data": "2024-07-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 100,
+    "data": "2024-07-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 500,
+    "data": "2024-07-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 75,
+    "data": "2024-07-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 300,
+    "data": "2024-07-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 150,
+    "data": "2024-07-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 100,
+    "data": "2024-07-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 80,
+    "data": "2024-07-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 60,
+    "data": "2024-08-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 40,
+    "data": "2024-08-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 90,
+    "data": "2024-08-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 70,
+    "data": "2024-08-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 120,
+    "data": "2024-08-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 450,
+    "data": "2024-08-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 60,
+    "data": "2024-08-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 350,
+    "data": "2024-08-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 130,
+    "data": "2024-08-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 95,
+    "data": "2024-08-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 85,
+    "data": "2024-08-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 65,
+    "data": "2024-08-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 35,
+    "data": "2024-08-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 70,
+    "data": "2024-08-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 80,
+    "data": "2024-08-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 150,
+    "data": "2024-08-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 600,
+    "data": "2024-08-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 90,
+    "data": "2024-08-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 400,
+    "data": "2024-08-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 140,
+    "data": "2024-08-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 110,
+    "data": "2024-08-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 95,
+    "data": "2024-08-22",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 55,
+    "data": "2024-09-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 75,
+    "data": "2024-09-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 100,
+    "data": "2024-09-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 65,
+    "data": "2024-09-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 110,
+    "data": "2024-09-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 580,
+    "data": "2024-09-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 70,
+    "data": "2024-09-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 320,
+    "data": "2024-09-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 160,
+    "data": "2024-09-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 115,
+    "data": "2024-09-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 85,
+    "data": "2024-09-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 65,
+    "data": "2024-09-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 45,
+    "data": "2024-09-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 80,
+    "data": "2024-09-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 75,
+    "data": "2024-09-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 90,
+    "data": "2024-09-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 500,
+    "data": "2024-09-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 55,
+    "data": "2024-09-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 280,
+    "data": "2024-09-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 130,
+    "data": "2024-09-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 95,
+    "data": "2024-09-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 90,
+    "data": "2024-09-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 55,
+    "data": "2024-09-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 70,
+    "data": "2024-09-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 85,
+    "data": "2024-09-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 95,
+    "data": "2024-09-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 573.64,
+    "data": "2024-08-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 397.14,
+    "data": "2024-07-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 214.63,
+    "data": "2024-09-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 201.09,
+    "data": "2024-11-30",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 219.13,
+    "data": "2024-09-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 392.65,
+    "data": "2024-07-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 502.59,
+    "data": "2024-10-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 535.59,
+    "data": "2024-11-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 245.81,
+    "data": "2024-09-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 211.73,
+    "data": "2024-09-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 399.59,
+    "data": "2024-08-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 98.73,
+    "data": "2024-08-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 200.27,
+    "data": "2024-09-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 76.88,
+    "data": "2024-08-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 175.07,
+    "data": "2024-07-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 437.64,
+    "data": "2024-11-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 493.56,
+    "data": "2024-07-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 69.58,
+    "data": "2024-11-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 330.65,
+    "data": "2024-10-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 239.3,
+    "data": "2024-12-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 402.11,
+    "data": "2024-07-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 319.09,
+    "data": "2024-11-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 69.4,
+    "data": "2024-09-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 180.85,
+    "data": "2024-12-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 530.06,
+    "data": "2024-07-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 314.22,
+    "data": "2024-10-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 280.89,
+    "data": "2024-08-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 22.45,
+    "data": "2024-09-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 32.24,
+    "data": "2024-12-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 534.46,
+    "data": "2024-11-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 561.81,
+    "data": "2024-12-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 445.22,
+    "data": "2024-10-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 30.0,
+    "data": "2024-07-22",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 452.08,
+    "data": "2024-10-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 118.11,
+    "data": "2024-09-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 353.09,
+    "data": "2024-10-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 116.57,
+    "data": "2024-12-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 251.23,
+    "data": "2024-07-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 117.94,
+    "data": "2024-09-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 131.66,
+    "data": "2024-07-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 200.71,
+    "data": "2024-07-07",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 256.0,
+    "data": "2024-08-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 259.02,
+    "data": "2024-11-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 340.64,
+    "data": "2024-08-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 521.58,
+    "data": "2024-12-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 114.3,
+    "data": "2024-11-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 510.17,
+    "data": "2024-11-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 126.81,
+    "data": "2024-08-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 452.81,
+    "data": "2024-10-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 590.16,
+    "data": "2024-12-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 341.59,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 251.23,
+    "data": "2024-09-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 79.8,
+    "data": "2024-11-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 45.72,
+    "data": "2024-07-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 60.55,
+    "data": "2024-09-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 348.53,
+    "data": "2024-12-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 129.27,
+    "data": "2024-09-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 337.44,
+    "data": "2024-08-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 545.48,
+    "data": "2024-08-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 39.18,
+    "data": "2024-09-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 363.08,
+    "data": "2024-08-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 438.05,
+    "data": "2024-11-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 443.99,
+    "data": "2024-08-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 99.47,
+    "data": "2024-10-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 235.23,
+    "data": "2024-10-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 593.5,
+    "data": "2024-12-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 117.04,
+    "data": "2024-07-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 542.83,
+    "data": "2024-12-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 200.6,
+    "data": "2024-08-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 576.04,
+    "data": "2024-11-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 122.92,
+    "data": "2024-10-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 448.57,
+    "data": "2024-11-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 306.64,
+    "data": "2024-09-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 465.94,
+    "data": "2024-12-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 97.5,
+    "data": "2024-11-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 502.38,
+    "data": "2024-08-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 593.97,
+    "data": "2024-07-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 167.2,
+    "data": "2024-07-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 205.16,
+    "data": "2024-12-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 140.74,
+    "data": "2024-10-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 553.18,
+    "data": "2024-08-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 116.03,
+    "data": "2024-07-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 201.89,
+    "data": "2024-07-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 88.01,
+    "data": "2024-07-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 280.6,
+    "data": "2024-10-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 113.63,
+    "data": "2024-09-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 97.96,
+    "data": "2024-11-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 535.96,
+    "data": "2024-10-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 551.59,
+    "data": "2024-10-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 484.77,
+    "data": "2024-11-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 160.73,
+    "data": "2024-10-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 376.86,
+    "data": "2024-09-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 466.53,
+    "data": "2024-10-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 511.1,
+    "data": "2024-09-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 567.04,
+    "data": "2024-08-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 370.26,
+    "data": "2024-08-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 74.7,
+    "data": "2024-10-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 266.34,
+    "data": "2024-12-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 277.66,
+    "data": "2024-10-31",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 93.55,
+    "data": "2024-10-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 465.86,
+    "data": "2024-10-07",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 590.39,
+    "data": "2024-12-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 324.74,
+    "data": "2024-09-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 261.3,
+    "data": "2024-08-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 21.18,
+    "data": "2024-07-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 200.18,
+    "data": "2024-12-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 152.02,
+    "data": "2024-12-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 538.27,
+    "data": "2024-12-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 382.99,
+    "data": "2024-11-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 242.59,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 557.98,
+    "data": "2024-11-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 574.62,
+    "data": "2024-09-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 301.95,
+    "data": "2024-10-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 120.95,
+    "data": "2024-10-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 523.65,
+    "data": "2024-07-07",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 350.04,
+    "data": "2024-07-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 560.92,
+    "data": "2024-08-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 187.09,
+    "data": "2024-12-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 406.02,
+    "data": "2024-07-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 361.65,
+    "data": "2024-09-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 323.36,
+    "data": "2024-10-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 311.9,
+    "data": "2024-10-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 592.59,
+    "data": "2024-11-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 594.2,
+    "data": "2024-09-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 249.27,
+    "data": "2024-12-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 543.18,
+    "data": "2024-10-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 310.0,
+    "data": "2024-10-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 378.53,
+    "data": "2024-10-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 277.38,
+    "data": "2024-07-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 267.11,
+    "data": "2024-12-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 505.98,
+    "data": "2024-08-27",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 130.65,
+    "data": "2024-09-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 454.62,
+    "data": "2024-07-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 194.43,
+    "data": "2024-11-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 133.09,
+    "data": "2024-07-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 335.77,
+    "data": "2024-12-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 345.36,
+    "data": "2024-12-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 425.48,
+    "data": "2024-10-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 518.8,
+    "data": "2024-09-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 562.87,
+    "data": "2024-11-07",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 332.73,
+    "data": "2024-09-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 344.7,
+    "data": "2024-08-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 40.86,
+    "data": "2024-07-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 413.27,
+    "data": "2024-10-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 492.28,
+    "data": "2024-11-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 187.41,
+    "data": "2024-08-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 141.03,
+    "data": "2024-12-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 71.41,
+    "data": "2024-08-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 160.75,
+    "data": "2024-11-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 457.05,
+    "data": "2024-07-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 408.14,
+    "data": "2024-08-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 226.11,
+    "data": "2024-12-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 84.6,
+    "data": "2024-11-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 276.05,
+    "data": "2024-07-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 71.39,
+    "data": "2024-09-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 181.48,
+    "data": "2024-10-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 239.71,
+    "data": "2024-12-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 523.96,
+    "data": "2024-07-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 292.81,
+    "data": "2024-11-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 106.37,
+    "data": "2024-07-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 502.24,
+    "data": "2024-08-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 240.7,
+    "data": "2024-09-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 242.39,
+    "data": "2024-09-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 491.57,
+    "data": "2024-08-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 422.65,
+    "data": "2024-12-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 448.32,
+    "data": "2024-07-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 552.79,
+    "data": "2024-10-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 154.75,
+    "data": "2024-07-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 177.13,
+    "data": "2024-07-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 76.29,
+    "data": "2024-07-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 598.51,
+    "data": "2024-07-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 448.05,
+    "data": "2024-10-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 49.51,
+    "data": "2024-08-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 498.42,
+    "data": "2024-08-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 507.49,
+    "data": "2024-11-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 421.5,
+    "data": "2024-11-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 270.44,
+    "data": "2024-07-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 215.98,
+    "data": "2024-10-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 293.07,
+    "data": "2024-11-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 373.38,
+    "data": "2024-12-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 450.3,
+    "data": "2024-08-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 436.1,
+    "data": "2024-12-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 331.7,
+    "data": "2024-08-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 290.01,
+    "data": "2024-12-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 439.63,
+    "data": "2024-07-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 216.09,
+    "data": "2024-07-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 472.14,
+    "data": "2024-10-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 355.53,
+    "data": "2024-09-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 101.65,
+    "data": "2024-09-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 345.11,
+    "data": "2024-07-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 113.9,
+    "data": "2024-08-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 574.59,
+    "data": "2024-07-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 245.57,
+    "data": "2024-09-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 410.51,
+    "data": "2024-08-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 221.86,
+    "data": "2024-07-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 140.01,
+    "data": "2024-09-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 391.51,
+    "data": "2024-08-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 137.42,
+    "data": "2024-12-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 90.53,
+    "data": "2024-09-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 90.98,
+    "data": "2024-08-31",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 322.48,
+    "data": "2024-09-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 269.96,
+    "data": "2024-12-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 311.42,
+    "data": "2024-07-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 353.97,
+    "data": "2024-10-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 219.87,
+    "data": "2024-09-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 160.68,
+    "data": "2024-09-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 292.76,
+    "data": "2024-07-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 369.6,
+    "data": "2024-12-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 291.53,
+    "data": "2024-11-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 395.05,
+    "data": "2024-12-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 588.49,
+    "data": "2024-10-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 494.4,
+    "data": "2024-12-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 191.44,
+    "data": "2024-10-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 536.77,
+    "data": "2024-08-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 429.71,
+    "data": "2024-12-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 298.0,
+    "data": "2024-11-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 412.61,
+    "data": "2024-10-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 107.32,
+    "data": "2024-08-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 427.55,
+    "data": "2024-09-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 64.37,
+    "data": "2024-12-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 187.69,
+    "data": "2024-10-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 79.59,
+    "data": "2024-10-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 338.57,
+    "data": "2024-11-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 513.05,
+    "data": "2024-08-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 66.68,
+    "data": "2024-11-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 307.91,
+    "data": "2024-07-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 465.99,
+    "data": "2024-08-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 537.92,
+    "data": "2024-11-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 459.03,
+    "data": "2024-12-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 179.75,
+    "data": "2024-12-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 184.85,
+    "data": "2024-11-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 85.1,
+    "data": "2024-11-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 448.0,
+    "data": "2024-09-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 466.76,
+    "data": "2024-08-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 169.0,
+    "data": "2024-11-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 428.66,
+    "data": "2024-11-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 122.76,
+    "data": "2024-10-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 335.58,
+    "data": "2024-11-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 583.27,
+    "data": "2024-09-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 395.79,
+    "data": "2024-07-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 374.83,
+    "data": "2024-09-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 188.38,
+    "data": "2024-09-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 317.18,
+    "data": "2024-10-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 223.59,
+    "data": "2024-09-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 427.26,
+    "data": "2024-12-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 473.6,
+    "data": "2024-09-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 87.02,
+    "data": "2024-09-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 279.21,
+    "data": "2024-12-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 476.82,
+    "data": "2024-10-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 384.13,
+    "data": "2024-08-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 387.25,
+    "data": "2024-07-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 241.03,
+    "data": "2024-12-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 397.45,
+    "data": "2024-07-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 517.82,
+    "data": "2024-09-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 331.24,
+    "data": "2024-10-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 133.82,
+    "data": "2024-12-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 569.69,
+    "data": "2024-10-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 546.58,
+    "data": "2024-11-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 396.74,
+    "data": "2024-12-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 187.97,
+    "data": "2024-08-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 533.95,
+    "data": "2024-11-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 203.73,
+    "data": "2024-08-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 444.52,
+    "data": "2024-08-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 400.39,
+    "data": "2024-09-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 164.13,
+    "data": "2024-08-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 344.06,
+    "data": "2024-07-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 267.22,
+    "data": "2024-07-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 22.01,
+    "data": "2024-11-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 277.54,
+    "data": "2024-09-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 390.81,
+    "data": "2024-09-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 445.81,
+    "data": "2024-12-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 472.61,
+    "data": "2024-10-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 326.17,
+    "data": "2024-08-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 382.58,
+    "data": "2024-07-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 390.36,
+    "data": "2024-08-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 126.67,
+    "data": "2024-10-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 534.24,
+    "data": "2024-07-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 334.98,
+    "data": "2024-10-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 388.84,
+    "data": "2024-07-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 215.13,
+    "data": "2024-07-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 373.79,
+    "data": "2024-07-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 44.76,
+    "data": "2024-10-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 395.03,
+    "data": "2024-11-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 540.93,
+    "data": "2024-10-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 69.34,
+    "data": "2024-10-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 44.85,
+    "data": "2024-09-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 120.81,
+    "data": "2024-08-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 211.23,
+    "data": "2024-11-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 425.7,
+    "data": "2024-12-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 400.08,
+    "data": "2024-11-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 214.62,
+    "data": "2024-08-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 187.96,
+    "data": "2024-12-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 399.37,
+    "data": "2024-12-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 32.89,
+    "data": "2024-10-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 331.0,
+    "data": "2024-08-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 475.95,
+    "data": "2024-12-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 584.51,
+    "data": "2024-08-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 388.41,
+    "data": "2024-10-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 529.45,
+    "data": "2024-07-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 299.84,
+    "data": "2024-08-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 443.4,
+    "data": "2024-10-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 207.34,
+    "data": "2024-09-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 491.03,
+    "data": "2024-12-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 449.06,
+    "data": "2024-08-31",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 595.73,
+    "data": "2024-07-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 363.33,
+    "data": "2024-07-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 149.98,
+    "data": "2024-10-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 76.44,
+    "data": "2024-09-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 109.78,
+    "data": "2024-09-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 531.27,
+    "data": "2024-12-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 373.56,
+    "data": "2024-12-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 246.35,
+    "data": "2024-07-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 109.82,
+    "data": "2024-07-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 252.61,
+    "data": "2024-11-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 394.06,
+    "data": "2024-08-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 73.72,
+    "data": "2024-11-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 217.42,
+    "data": "2024-08-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 356.48,
+    "data": "2024-11-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 259.61,
+    "data": "2024-08-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 135.91,
+    "data": "2024-09-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 597.66,
+    "data": "2024-11-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 400.71,
+    "data": "2024-11-30",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 551.45,
+    "data": "2024-11-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 96.5,
+    "data": "2024-08-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 87.81,
+    "data": "2024-07-13",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 430.83,
+    "data": "2024-08-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 293.02,
+    "data": "2024-10-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 597.62,
+    "data": "2024-08-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 457.51,
+    "data": "2024-08-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 41.59,
+    "data": "2024-10-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 399.61,
+    "data": "2024-07-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 507.37,
+    "data": "2024-12-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 380.19,
+    "data": "2024-10-27",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 344.67,
+    "data": "2024-10-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 336.17,
+    "data": "2024-10-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 441.96,
+    "data": "2024-11-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 208.52,
+    "data": "2024-11-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 485.96,
+    "data": "2024-10-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 135.14,
+    "data": "2024-11-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 590.43,
+    "data": "2024-10-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 220.26,
+    "data": "2024-08-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 318.1,
+    "data": "2024-09-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 173.23,
+    "data": "2024-11-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 346.4,
+    "data": "2024-08-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 232.77,
+    "data": "2024-07-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 556.17,
+    "data": "2024-10-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 432.71,
+    "data": "2024-11-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 583.75,
+    "data": "2024-07-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 354.86,
+    "data": "2024-10-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 409.68,
+    "data": "2024-07-31",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 169.47,
+    "data": "2024-10-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 211.09,
+    "data": "2024-09-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 92.62,
+    "data": "2024-07-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 480.94,
+    "data": "2024-08-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 53.17,
+    "data": "2024-11-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 239.87,
+    "data": "2024-07-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 184.63,
+    "data": "2024-08-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 85.69,
+    "data": "2024-09-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 366.76,
+    "data": "2024-10-27",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 472.77,
+    "data": "2024-07-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 425.17,
+    "data": "2024-07-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 283.54,
+    "data": "2024-12-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 149.44,
+    "data": "2024-07-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 398.42,
+    "data": "2024-08-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 559.82,
+    "data": "2024-11-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 565.97,
+    "data": "2024-12-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 143.75,
+    "data": "2024-08-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 387.55,
+    "data": "2024-09-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 84.09,
+    "data": "2024-07-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 495.42,
+    "data": "2024-10-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 97.61,
+    "data": "2024-07-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 509.43,
+    "data": "2024-09-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 387.9,
+    "data": "2024-07-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 544.83,
+    "data": "2024-12-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 557.87,
+    "data": "2024-11-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 315.36,
+    "data": "2024-07-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 175.59,
+    "data": "2024-07-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 23.81,
+    "data": "2024-11-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 141.51,
+    "data": "2024-11-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 559.71,
+    "data": "2024-09-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 441.18,
+    "data": "2024-08-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 451.2,
+    "data": "2024-12-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 358.05,
+    "data": "2024-12-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 441.29,
+    "data": "2024-11-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 252.69,
+    "data": "2024-11-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 264.89,
+    "data": "2024-09-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 214.97,
+    "data": "2024-12-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 373.46,
+    "data": "2024-08-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 92.39,
+    "data": "2024-07-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 456.89,
+    "data": "2024-10-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 221.86,
+    "data": "2024-08-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 430.71,
+    "data": "2024-08-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 238.61,
+    "data": "2024-11-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 43.91,
+    "data": "2024-10-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 121.8,
+    "data": "2024-09-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 500.76,
+    "data": "2024-08-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 163.82,
+    "data": "2024-11-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 476.03,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 159.99,
+    "data": "2024-07-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 248.7,
+    "data": "2024-09-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 215.33,
+    "data": "2024-09-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 249.83,
+    "data": "2024-07-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 212.82,
+    "data": "2024-10-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 436.69,
+    "data": "2024-11-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 562.97,
+    "data": "2024-10-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 581.02,
+    "data": "2024-10-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 478.7,
+    "data": "2024-07-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 472.08,
+    "data": "2024-09-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 125.15,
+    "data": "2024-11-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 548.02,
+    "data": "2024-08-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 351.7,
+    "data": "2024-08-31",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 524.69,
+    "data": "2024-12-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 294.39,
+    "data": "2024-12-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 145.01,
+    "data": "2024-07-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 63.31,
+    "data": "2024-09-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 292.56,
+    "data": "2024-07-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 144.56,
+    "data": "2024-11-07",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 387.01,
+    "data": "2024-09-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 329.72,
+    "data": "2024-10-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 105.91,
+    "data": "2024-09-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 72.29,
+    "data": "2024-11-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 577.33,
+    "data": "2024-08-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 451.77,
+    "data": "2024-08-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 275.23,
+    "data": "2024-09-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 487.81,
+    "data": "2024-10-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 87.22,
+    "data": "2024-10-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 342.84,
+    "data": "2024-10-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 598.88,
+    "data": "2024-08-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 165.55,
+    "data": "2024-12-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 338.19,
+    "data": "2024-11-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 448.63,
+    "data": "2024-12-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 597.17,
+    "data": "2024-08-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 523.27,
+    "data": "2024-09-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 452.59,
+    "data": "2024-09-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 389.1,
+    "data": "2024-08-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 176.16,
+    "data": "2024-12-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 115.0,
+    "data": "2024-07-13",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 483.7,
+    "data": "2024-11-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 521.5,
+    "data": "2024-08-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 522.37,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 592.43,
+    "data": "2024-07-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 49.32,
+    "data": "2024-08-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 547.79,
+    "data": "2024-11-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 28.08,
+    "data": "2024-07-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 182.14,
+    "data": "2024-07-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 25.84,
+    "data": "2024-09-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 30.29,
+    "data": "2024-11-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 348.25,
+    "data": "2024-11-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 419.12,
+    "data": "2024-10-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 403.67,
+    "data": "2024-07-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 226.72,
+    "data": "2024-08-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 583.29,
+    "data": "2024-12-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 308.14,
+    "data": "2024-12-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 60.14,
+    "data": "2024-09-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 443.44,
+    "data": "2024-07-22",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 23.69,
+    "data": "2024-12-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 95.38,
+    "data": "2024-08-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 377.46,
+    "data": "2024-11-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 81.05,
+    "data": "2024-10-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 225.97,
+    "data": "2024-12-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 271.09,
+    "data": "2024-10-27",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 560.11,
+    "data": "2024-10-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 552.91,
+    "data": "2024-09-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 277.69,
+    "data": "2024-07-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 554.95,
+    "data": "2024-11-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 244.24,
+    "data": "2024-09-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 90.76,
+    "data": "2024-08-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 104.95,
+    "data": "2024-11-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 271.03,
+    "data": "2024-11-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 420.65,
+    "data": "2024-12-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 325.21,
+    "data": "2024-09-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 532.8,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 522.3,
+    "data": "2024-11-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 458.16,
+    "data": "2024-07-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 494.3,
+    "data": "2024-10-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 433.97,
+    "data": "2024-07-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 562.3,
+    "data": "2024-09-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 241.01,
+    "data": "2024-11-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 247.81,
+    "data": "2024-07-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 356.2,
+    "data": "2024-08-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 30.3,
+    "data": "2024-09-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 210.57,
+    "data": "2024-12-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 164.42,
+    "data": "2024-07-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 214.33,
+    "data": "2024-08-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 124.01,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 301.52,
+    "data": "2024-10-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 356.73,
+    "data": "2024-07-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 206.02,
+    "data": "2024-12-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 230.72,
+    "data": "2024-07-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 377.28,
+    "data": "2024-07-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 72.93,
+    "data": "2024-11-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 251.2,
+    "data": "2024-08-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 135.24,
+    "data": "2024-11-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 153.36,
+    "data": "2024-08-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 128.8,
+    "data": "2024-09-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 405.99,
+    "data": "2024-11-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 53.5,
+    "data": "2024-10-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 30.01,
+    "data": "2024-08-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 202.63,
+    "data": "2024-09-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 195.38,
+    "data": "2024-12-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 99.21,
+    "data": "2024-07-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 302.12,
+    "data": "2024-07-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 24.79,
+    "data": "2024-12-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 100.18,
+    "data": "2024-10-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 167.27,
+    "data": "2024-09-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 383.45,
+    "data": "2024-08-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 95.78,
+    "data": "2024-11-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 390.7,
+    "data": "2024-08-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 314.93,
+    "data": "2024-07-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 354.72,
+    "data": "2024-11-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 431.36,
+    "data": "2024-12-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 502.98,
+    "data": "2024-11-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 560.9,
+    "data": "2024-10-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 529.96,
+    "data": "2024-08-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 445.98,
+    "data": "2024-07-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 438.73,
+    "data": "2024-07-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 311.08,
+    "data": "2024-07-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 459.34,
+    "data": "2024-09-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 309.92,
+    "data": "2024-11-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 579.14,
+    "data": "2024-11-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 63.84,
+    "data": "2024-08-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 240.31,
+    "data": "2024-10-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 48.53,
+    "data": "2024-07-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 457.38,
+    "data": "2024-08-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 352.55,
+    "data": "2024-08-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 488.89,
+    "data": "2024-10-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 485.63,
+    "data": "2024-07-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 56.91,
+    "data": "2024-08-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 220.34,
+    "data": "2024-11-22",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 469.19,
+    "data": "2024-11-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 562.75,
+    "data": "2024-10-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 480.96,
+    "data": "2024-10-31",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 535.56,
+    "data": "2024-07-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 411.46,
+    "data": "2024-09-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 505.24,
+    "data": "2024-11-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 370.77,
+    "data": "2024-07-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 155.95,
+    "data": "2024-09-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 410.63,
+    "data": "2024-11-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 303.07,
+    "data": "2024-11-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 252.11,
+    "data": "2024-08-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 29.94,
+    "data": "2024-12-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 60.82,
+    "data": "2024-07-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 393.59,
+    "data": "2024-08-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 546.68,
+    "data": "2024-08-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 300.73,
+    "data": "2024-12-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 528.77,
+    "data": "2024-10-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 463.5,
+    "data": "2024-08-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 26.79,
+    "data": "2024-07-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 93.31,
+    "data": "2024-08-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 65.19,
+    "data": "2024-09-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 345.91,
+    "data": "2024-12-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 492.7,
+    "data": "2024-11-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 78.79,
+    "data": "2024-08-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 164.02,
+    "data": "2024-12-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 278.66,
+    "data": "2024-11-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 82.55,
+    "data": "2024-12-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 422.93,
+    "data": "2024-09-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 456.36,
+    "data": "2024-09-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 38.99,
+    "data": "2024-12-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 490.22,
+    "data": "2024-08-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 590.87,
+    "data": "2024-10-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 549.24,
+    "data": "2024-10-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 215.4,
+    "data": "2024-10-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 470.47,
+    "data": "2024-09-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 588.96,
+    "data": "2024-09-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 394.43,
+    "data": "2024-09-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 223.96,
+    "data": "2024-10-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 235.46,
+    "data": "2024-09-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 101.73,
+    "data": "2024-09-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 255.95,
+    "data": "2024-08-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 276.24,
+    "data": "2024-11-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 384.65,
+    "data": "2024-12-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 34.54,
+    "data": "2024-07-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 222.93,
+    "data": "2024-12-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 232.41,
+    "data": "2024-12-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 187.71,
+    "data": "2024-09-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 139.33,
+    "data": "2024-10-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 114.72,
+    "data": "2024-08-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 240.77,
+    "data": "2024-09-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 366.72,
+    "data": "2024-07-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 445.86,
+    "data": "2024-11-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 390.77,
+    "data": "2024-12-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 113.44,
+    "data": "2024-10-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 272.01,
+    "data": "2024-12-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 523.23,
+    "data": "2024-10-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 355.36,
+    "data": "2024-07-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 143.68,
+    "data": "2024-12-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 583.42,
+    "data": "2024-09-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 590.71,
+    "data": "2024-08-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 494.82,
+    "data": "2024-09-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 231.99,
+    "data": "2024-10-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 462.37,
+    "data": "2024-07-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 314.16,
+    "data": "2024-07-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 232.74,
+    "data": "2024-07-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 437.95,
+    "data": "2024-10-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 538.75,
+    "data": "2024-09-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 411.46,
+    "data": "2024-08-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 32.0,
+    "data": "2024-12-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 360.86,
+    "data": "2024-11-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 465.63,
+    "data": "2024-10-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 241.27,
+    "data": "2024-10-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 247.63,
+    "data": "2024-07-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 358.26,
+    "data": "2024-10-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 45.62,
+    "data": "2024-08-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 447.82,
+    "data": "2024-08-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 62.15,
+    "data": "2024-08-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 205.03,
+    "data": "2024-09-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 412.83,
+    "data": "2024-12-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 197.42,
+    "data": "2024-10-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 197.89,
+    "data": "2024-10-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 42.12,
+    "data": "2024-08-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 276.12,
+    "data": "2024-10-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 171.85,
+    "data": "2024-12-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 223.74,
+    "data": "2024-11-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 589.59,
+    "data": "2024-07-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 571.59,
+    "data": "2024-09-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 203.48,
+    "data": "2024-08-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 336.04,
+    "data": "2024-12-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 343.64,
+    "data": "2024-12-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 245.37,
+    "data": "2024-11-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 84.12,
+    "data": "2024-07-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 81.08,
+    "data": "2024-07-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 593.71,
+    "data": "2024-07-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 283.27,
+    "data": "2024-08-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 415.03,
+    "data": "2024-08-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 96.63,
+    "data": "2024-09-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 300.46,
+    "data": "2024-08-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 337.83,
+    "data": "2024-09-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 24.11,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 160.18,
+    "data": "2024-07-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 78.57,
+    "data": "2024-11-13",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 190.0,
+    "data": "2024-12-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 373.93,
+    "data": "2024-12-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 254.77,
+    "data": "2024-12-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 93.05,
+    "data": "2024-11-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 68.87,
+    "data": "2024-08-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 269.62,
+    "data": "2024-09-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 36.23,
+    "data": "2024-07-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 529.18,
+    "data": "2024-12-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 281.81,
+    "data": "2024-07-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 32.33,
+    "data": "2024-11-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 169.79,
+    "data": "2024-09-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 576.48,
+    "data": "2024-07-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 375.25,
+    "data": "2024-12-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 59.54,
+    "data": "2024-07-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 170.54,
+    "data": "2024-07-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 125.85,
+    "data": "2024-10-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 119.26,
+    "data": "2024-07-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 394.4,
+    "data": "2024-12-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 482.28,
+    "data": "2024-10-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 283.28,
+    "data": "2024-09-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 93.6,
+    "data": "2024-12-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 87.36,
+    "data": "2024-10-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 457.83,
+    "data": "2024-07-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 79.87,
+    "data": "2024-08-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 298.86,
+    "data": "2024-10-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 222.97,
+    "data": "2024-08-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 303.86,
+    "data": "2024-07-31",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 227.69,
+    "data": "2024-08-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 65.63,
+    "data": "2024-07-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 563.28,
+    "data": "2024-07-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 382.0,
+    "data": "2024-08-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 185.28,
+    "data": "2024-07-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 201.17,
+    "data": "2024-12-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 588.68,
+    "data": "2024-09-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 582.71,
+    "data": "2024-10-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 574.76,
+    "data": "2024-07-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 249.18,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 255.84,
+    "data": "2024-07-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 239.74,
+    "data": "2024-08-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 63.1,
+    "data": "2024-10-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 381.44,
+    "data": "2024-08-27",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 256.6,
+    "data": "2024-08-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 267.39,
+    "data": "2024-12-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 490.13,
+    "data": "2024-12-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 218.82,
+    "data": "2024-08-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 339.68,
+    "data": "2024-08-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 118.42,
+    "data": "2024-08-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 110.25,
+    "data": "2024-11-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 68.64,
+    "data": "2024-08-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 100.28,
+    "data": "2024-09-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 167.08,
+    "data": "2024-12-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 321.69,
+    "data": "2024-12-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 565.76,
+    "data": "2024-10-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 527.36,
+    "data": "2024-09-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 170.34,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 288.51,
+    "data": "2024-09-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 339.98,
+    "data": "2024-09-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 554.3,
+    "data": "2024-11-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 352.27,
+    "data": "2024-09-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 243.98,
+    "data": "2024-11-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 120.07,
+    "data": "2024-08-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 288.86,
+    "data": "2024-08-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 534.74,
+    "data": "2024-08-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 107.34,
+    "data": "2024-09-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 81.1,
+    "data": "2024-07-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 285.8,
+    "data": "2024-09-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 291.56,
+    "data": "2024-12-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 227.57,
+    "data": "2024-10-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 352.84,
+    "data": "2024-07-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 452.96,
+    "data": "2024-08-22",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 93.96,
+    "data": "2024-12-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 173.38,
+    "data": "2024-11-12",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 415.6,
+    "data": "2024-07-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 429.81,
+    "data": "2024-07-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 377.47,
+    "data": "2024-12-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 190.15,
+    "data": "2024-08-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 337.94,
+    "data": "2024-08-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 121.17,
+    "data": "2024-10-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 109.43,
+    "data": "2024-07-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 200.08,
+    "data": "2024-11-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 142.66,
+    "data": "2024-11-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 496.52,
+    "data": "2024-08-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 525.48,
+    "data": "2024-08-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 387.62,
+    "data": "2024-10-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 323.86,
+    "data": "2024-07-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 246.25,
+    "data": "2024-11-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 56.59,
+    "data": "2024-07-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 244.37,
+    "data": "2024-07-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 529.43,
+    "data": "2024-07-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 32.98,
+    "data": "2024-09-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 29.21,
+    "data": "2024-09-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 145.06,
+    "data": "2024-07-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 478.34,
+    "data": "2024-08-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 32.46,
+    "data": "2024-12-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 58.99,
+    "data": "2024-12-05",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 552.58,
+    "data": "2024-11-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 570.27,
+    "data": "2024-11-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 337.77,
+    "data": "2024-11-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 595.07,
+    "data": "2024-11-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 367.47,
+    "data": "2024-09-28",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 228.71,
+    "data": "2024-08-31",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 253.39,
+    "data": "2024-12-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 301.36,
+    "data": "2024-12-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 205.62,
+    "data": "2024-10-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 405.18,
+    "data": "2024-07-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 92.86,
+    "data": "2024-09-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 34.88,
+    "data": "2024-07-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 251.75,
+    "data": "2024-07-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 31.73,
+    "data": "2024-08-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 167.45,
+    "data": "2024-09-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 574.37,
+    "data": "2024-12-09",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 498.9,
+    "data": "2024-07-24",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 79.73,
+    "data": "2024-12-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 23.6,
+    "data": "2024-11-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 209.63,
+    "data": "2024-07-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 182.18,
+    "data": "2024-07-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 142.17,
+    "data": "2024-07-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 152.43,
+    "data": "2024-12-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 353.24,
+    "data": "2024-09-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 498.25,
+    "data": "2024-07-22",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 432.83,
+    "data": "2024-07-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 180.11,
+    "data": "2024-11-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 351.61,
+    "data": "2024-08-25",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 135.64,
+    "data": "2024-11-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 124.23,
+    "data": "2024-11-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 494.91,
+    "data": "2024-12-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 149.41,
+    "data": "2024-07-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 485.93,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 143.03,
+    "data": "2024-11-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 259.5,
+    "data": "2024-11-07",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 570.6,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 195.57,
+    "data": "2024-07-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 150.93,
+    "data": "2024-08-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 314.61,
+    "data": "2024-08-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 156.44,
+    "data": "2024-11-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 242.01,
+    "data": "2024-10-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 213.79,
+    "data": "2024-10-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 144.37,
+    "data": "2024-10-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 543.45,
+    "data": "2024-09-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 581.65,
+    "data": "2024-07-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 129.3,
+    "data": "2024-09-28",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 153.8,
+    "data": "2024-10-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 321.54,
+    "data": "2024-10-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 211.94,
+    "data": "2024-07-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 396.86,
+    "data": "2024-09-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 356.89,
+    "data": "2024-12-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 570.38,
+    "data": "2024-12-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 26.07,
+    "data": "2024-09-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 34.99,
+    "data": "2024-10-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 442.86,
+    "data": "2024-08-17",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 516.6,
+    "data": "2024-11-30",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 493.83,
+    "data": "2024-10-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 65.71,
+    "data": "2024-11-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 222.13,
+    "data": "2024-09-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 259.38,
+    "data": "2024-12-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 111.38,
+    "data": "2024-12-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 534.21,
+    "data": "2024-10-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 434.25,
+    "data": "2024-10-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 322.58,
+    "data": "2024-08-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 292.75,
+    "data": "2024-12-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 128.81,
+    "data": "2024-12-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 94.33,
+    "data": "2024-11-01",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 264.25,
+    "data": "2024-09-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 354.8,
+    "data": "2024-09-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 376.83,
+    "data": "2024-09-11",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 384.72,
+    "data": "2024-10-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 262.11,
+    "data": "2024-07-13",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 549.3,
+    "data": "2024-07-31",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 471.69,
+    "data": "2024-11-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 61.82,
+    "data": "2024-07-25",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 195.97,
+    "data": "2024-12-06",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 43.52,
+    "data": "2024-08-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 538.34,
+    "data": "2024-09-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 386.41,
+    "data": "2024-11-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 453.83,
+    "data": "2024-12-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 497.72,
+    "data": "2024-10-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 391.63,
+    "data": "2024-11-04",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 469.52,
+    "data": "2024-08-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 492.35,
+    "data": "2024-07-11",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 532.6,
+    "data": "2024-07-15",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 197.44,
+    "data": "2024-11-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 395.84,
+    "data": "2024-09-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 280.4,
+    "data": "2024-11-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 321.19,
+    "data": "2024-09-18",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 332.7,
+    "data": "2024-11-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 466.07,
+    "data": "2024-09-26",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 335.77,
+    "data": "2024-09-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 471.03,
+    "data": "2024-10-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 257.53,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 362.54,
+    "data": "2024-09-17",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 144.4,
+    "data": "2024-09-29",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 379.27,
+    "data": "2024-09-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 353.17,
+    "data": "2024-10-12",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 567.4,
+    "data": "2024-11-09",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 467.14,
+    "data": "2024-09-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 303.56,
+    "data": "2024-11-30",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 437.96,
+    "data": "2024-08-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 339.98,
+    "data": "2024-09-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 276.87,
+    "data": "2024-12-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 327.39,
+    "data": "2024-10-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 562.93,
+    "data": "2024-09-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 585.54,
+    "data": "2024-07-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 34.17,
+    "data": "2024-08-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 171.3,
+    "data": "2024-07-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 74.95,
+    "data": "2024-07-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 42.62,
+    "data": "2024-07-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 48.02,
+    "data": "2024-08-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 522.04,
+    "data": "2024-12-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 207.93,
+    "data": "2024-08-23",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 409.15,
+    "data": "2024-10-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 538.56,
+    "data": "2024-09-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 374.69,
+    "data": "2024-10-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 370.29,
+    "data": "2024-09-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 283.94,
+    "data": "2024-09-02",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 213.24,
+    "data": "2024-11-02",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 325.09,
+    "data": "2024-10-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 543.08,
+    "data": "2024-12-16",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 337.5,
+    "data": "2024-11-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 248.35,
+    "data": "2024-09-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 225.57,
+    "data": "2024-09-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 39.05,
+    "data": "2024-07-10",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 454.34,
+    "data": "2024-07-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 118.22,
+    "data": "2024-09-29",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 192.58,
+    "data": "2024-11-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 71.71,
+    "data": "2024-10-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 187.49,
+    "data": "2024-11-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 128.86,
+    "data": "2024-12-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 559.3,
+    "data": "2024-11-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 350.21,
+    "data": "2024-07-31",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 350.29,
+    "data": "2024-11-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 449.52,
+    "data": "2024-10-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 420.31,
+    "data": "2024-10-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 557.87,
+    "data": "2024-08-15",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 351.86,
+    "data": "2024-09-19",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 490.17,
+    "data": "2024-09-23",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 81.71,
+    "data": "2024-12-03",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 60.55,
+    "data": "2024-10-12",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 227.73,
+    "data": "2024-12-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 390.37,
+    "data": "2024-11-14",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 218.7,
+    "data": "2024-11-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 284.44,
+    "data": "2024-12-21",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 547.78,
+    "data": "2024-09-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 37.17,
+    "data": "2024-09-23",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 38.88,
+    "data": "2024-07-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 552.42,
+    "data": "2024-11-21",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 389.73,
+    "data": "2024-11-01",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 438.81,
+    "data": "2024-10-28",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 344.27,
+    "data": "2024-12-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 142.1,
+    "data": "2024-10-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Transporte",
+    "valor": 185.48,
+    "data": "2024-08-18",
+    "prioridade": 2
+  },
+  {
+    "tag": "Carro",
+    "valor": 235.81,
+    "data": "2024-07-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 163.56,
+    "data": "2024-10-18",
+    "prioridade": 1
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 100.66,
+    "data": "2024-12-19",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 69.74,
+    "data": "2024-09-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 548.15,
+    "data": "2024-09-13",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 431.35,
+    "data": "2024-12-27",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 572.91,
+    "data": "2024-08-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 223.95,
+    "data": "2024-07-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 393.99,
+    "data": "2024-09-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 187.88,
+    "data": "2024-07-19",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 137.99,
+    "data": "2024-09-10",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 430.67,
+    "data": "2024-10-04",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 271.65,
+    "data": "2024-09-15",
+    "prioridade": 3
+  },
+  {
+    "tag": "Internet",
+    "valor": 516.96,
+    "data": "2024-10-31",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 313.37,
+    "data": "2024-10-11",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 169.83,
+    "data": "2024-11-25",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 573.64,
+    "data": "2024-12-08",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 466.81,
+    "data": "2024-10-26",
+    "prioridade": 2
+  },
+  {
+    "tag": "Moradia",
+    "valor": 150.67,
+    "data": "2024-09-10",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 20.82,
+    "data": "2024-07-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 83.63,
+    "data": "2024-07-03",
+    "prioridade": 1
+  },
+  {
+    "tag": "Internet",
+    "valor": 297.77,
+    "data": "2024-07-17",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 38.99,
+    "data": "2024-12-27",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 248.92,
+    "data": "2024-11-16",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 153.22,
+    "data": "2024-11-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 161.42,
+    "data": "2024-09-02",
+    "prioridade": 1
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 299.23,
+    "data": "2024-08-21",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 198.81,
+    "data": "2024-08-20",
+    "prioridade": 3
+  },
+  {
+    "tag": "Luz",
+    "valor": 50.89,
+    "data": "2024-08-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 507.54,
+    "data": "2024-07-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 240.26,
+    "data": "2024-11-09",
+    "prioridade": 2
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 395.88,
+    "data": "2024-10-24",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 267.69,
+    "data": "2024-09-16",
+    "prioridade": 1
+  },
+  {
+    "tag": "Luz",
+    "valor": 43.8,
+    "data": "2024-10-06",
+    "prioridade": 1
+  },
+  {
+    "tag": "Carro",
+    "valor": 584.98,
+    "data": "2024-07-05",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 512.91,
+    "data": "2024-09-04",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 86.34,
+    "data": "2024-11-05",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 504.82,
+    "data": "2024-12-20",
+    "prioridade": 2
+  },
+  {
+    "tag": "Luz",
+    "valor": 95.47,
+    "data": "2024-11-08",
+    "prioridade": 1
+  },
+  {
+    "tag": "Lazer",
+    "valor": 274.52,
+    "data": "2024-09-07",
+    "prioridade": 3
+  },
+  {
+    "tag": "Telefonia",
+    "valor": 325.25,
+    "data": "2024-09-07",
+    "prioridade": 1
+  },
+  {
+    "tag": "Moradia",
+    "valor": 254.39,
+    "data": "2024-10-13",
+    "prioridade": 2
+  },
+  {
+    "tag": "Lazer",
+    "valor": 291.38,
+    "data": "2024-09-14",
+    "prioridade": 2
+  },
+  {
+    "tag": "Internet",
+    "valor": 352.59,
+    "data": "2024-10-22",
+    "prioridade": 1
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 373.94,
+    "data": "2024-08-26",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 305.98,
+    "data": "2024-10-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Lazer",
+    "valor": 379.83,
+    "data": "2024-11-14",
+    "prioridade": 3
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 394.19,
+    "data": "2024-07-01",
+    "prioridade": 3
+  },
+  {
+    "tag": "Sa\u00fade",
+    "valor": 95.26,
+    "data": "2024-12-22",
+    "prioridade": 3
+  },
+  {
+    "tag": "Alimenta\u00e7\u00e3o",
+    "valor": 142.69,
+    "data": "2024-08-29",
+    "prioridade": 3
+  },
+  {
+    "tag": "Carro",
+    "valor": 577.13,
+    "data": "2024-07-08",
+    "prioridade": 2
+  },
+  {
+    "tag": "Educa\u00e7\u00e3o",
+    "valor": 250.67,
+    "data": "2024-08-20",
+    "prioridade": 1
+  },
+  {
+    "tag": "Transporte",
+    "valor": 308.51,
+    "data": "2024-08-24",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 285.86,
+    "data": "2024-10-03",
+    "prioridade": 3
+  },
+  {
+    "tag": "Moradia",
+    "valor": 34.93,
+    "data": "2024-10-06",
+    "prioridade": 3
+  },
+  {
+    "tag": "Transporte",
+    "valor": 72.74,
+    "data": "2024-10-01",
+    "prioridade": 3
+  }
+]
