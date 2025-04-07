@@ -1,0 +1,257 @@
+Aluno: Moyseys Ferreira Veroni
+RA: 202402395041
+
+// INCLUIR BIBILIOTECAS: stdio, stdlib
+#include <stdio.h>
+#include <stdlib.h>
+
+// DECLARAR OS PROTÓTIPOS DAS FUNÇÕES:
+// ler01: COM RETORNO (int) E COM PARÂMETROS (char)
+// ler02: SEM RETORNO  E COM PARÂMETROS (int * e char)
+// ler03: SEM RETORNO E COM PARÂMETROS (int *  e char)
+// ler04: SEM RETORNO E COM PARÂMETROS (int * e char)
+int ler01(char);
+
+void ler02(int *, char);
+
+void ler03(int *, char);
+
+void ler04(int *, char);
+
+// DECLARAR A FUNÇÃO main()
+int main(void){
+
+  // DECLARAR 3 VARIÁVEIS (int) COM VALORES INICIAIS
+	int v1 = 1, v2 = 2, v3 = 3;
+	int *vp1 = &v1;
+	int *vp2 = &v2;
+	int *vp3 = &v3;
+		
+	// IMPRIMIR O VALOR DA PRIMEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  	// IMPRIMIR O VALOR DA SEGUNDA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  	// IMPRIMIR O VALOR DA TERCEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+	
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV1\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v1, &v1, *vp1);
+	printf("|\tV2\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v2, &v2, *vp2);
+	printf("|\tV3\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v3, &v3, *vp3);
+	printf("|---------------------------------------------------------------------------------------|\n");
+	
+	// EXECUTAR A FUNÇÃO: LER01 COM RETORNO PARA A PRIMEIRA VARIÁVEL E COM PARÂMETRO (char)
+	// EXECUTAR A FUNÇÃO: LER01 COM RETORNO PARA A SEGUNDA VARIÁVEL E COM PARÂMETRO (char)
+	// EXECUTAR A FUNÇÃO: LER01 COM RETORNO PARA A TERCEIRA VARIÁVEL E COM PARÂMETRO (char)
+
+	v1 = ler01('A');
+	v2 = ler01('A');
+	v3 = ler01('A');
+	
+	// IMPRIMIR O VALOR DA PRIMEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  	// IMPRIMIR O VALOR DA SEGUNDA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  	// IMPRIMIR O VALOR DA TERCEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV1\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v1, &v1, *vp1);
+	printf("|\tV2\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v2, &v2, *vp2);
+	printf("|\tV3\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v3, &v3, *vp3);
+	printf("|---------------------------------------------------------------------------------------|\n");
+	
+
+	// EXECUTAR A FUNÇÃO: ler02 SEM RETORNO E COM PARÂMETRO (endereço da primeira variável e um char)
+  	// EXECUTAR A FUNÇÃO: ler02 SEM RETORNO E COM PARÂMETRO (endereço da variável variável e um char)
+  	// EXECUTAR A FUNÇÃO: ler02 SEM RETORNO E COM PARÂMETRO (endereço da terceira variável e um char)
+
+	ler02(&v1, 'a');
+	ler02(&v2, 'a');
+	ler02(&v3, 'a');
+
+  // IMPRIMIR O VALOR DA PRIMEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  // IMPRIMIR O VALOR DA SEGUNDA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  // IMPRIMIR O VALOR DA TERCEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  
+  	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV1\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v1, &v1, *vp1);
+	printf("|\tV2\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v2, &v2, *vp2);
+	printf("|\tV3\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v3, &v3, *vp3);
+	printf("|---------------------------------------------------------------------------------------|\n");
+
+  // DECLARAR UM POINTER PARA INTEIRO
+  
+  	int *vp;
+
+  // ATRIBUIR AO POINTER O ENDEREÇO DA PRIMIERA VARIÁVEL
+
+	vp = &v1;
+
+  // EXECUTAR A FUNÇÃO: ler03 SEM RETORNO E COM PARÂMETRO (o pointer e um char)
+
+	ler03(vp, 'a');
+
+  // IMPRIMIR O VALOR DA PRIMEIRA VARIÁVEL, O POINTER E O CONTEÚDO DO ENDERÇO QUE O POINTER APONTA
+  
+    printf("|-------------------------------------------------------------------------------|\n");
+	printf("|\tVALOR V1\t|\tPOINTER\t\t|\tCONTEÚDO DO POINTER\t|\n");
+	printf("|-------------------------------------------------------------------------------|\n");
+	printf("|\t %d \t\t|\t %d \t|\t\t %d \t\t|\n", v1, vp, *vp);
+	printf("|-------------------------------------------------------------------------------|\n");
+
+  // ATRIBUIR AO POINTER O ENDEREÇO DA SEGUNDA VARIÁVEL
+  
+  vp = &v2;
+
+  // EXECUTAR A FUNÇÃO: ler03 SEM RETORNO E COM PARÂMETRO (o pointer e um char)
+  
+  ler03(vp, 'a');
+
+  // IMPRIMIR O VALOR DA SEGUNDA VARIÁVEL, O POINTER E O CONTEÚDO DO ENDERÇO QUE O POINTER APONTA
+  
+    printf("|-------------------------------------------------------------------------------|\n");
+	printf("|\tVALOR V2\t|\tPOINTER\t\t|\tCONTEÚDO DO POINTER\t|\n");
+	printf("|-------------------------------------------------------------------------------|\n");
+	printf("|\t %d \t\t|\t %d \t|\t\t %d \t\t|\n", v2, vp, *vp);
+	printf("|-------------------------------------------------------------------------------|\n");
+	
+  // ATRIBUIR AO POINTER O ENDEREÇO DA TERCEIRA VARIÁVEL
+  
+  vp = &v3;
+
+  // EXECUTAR A FUNÇÃO: ler03 SEM RETORNO E COM PARÂMETRO (o pointer e um char)
+
+	ler03(vp, 'a');
+
+  // IMPRIMIR O VALOR DA TERCEIRA VARIÁVEL, O POINTER E O CONTEÚDO DO ENDERÇO QUE O POINTER APONTA
+
+    printf("|-------------------------------------------------------------------------------|\n");
+	printf("|\tVALOR V3\t|\tPOINTER\t\t|\tCONTEÚDO DO POINTER\t|\n");
+	printf("|-------------------------------------------------------------------------------|\n");
+	printf("|\t %d \t\t|\t %d \t|\t\t %d \t\t|\n", v3, vp, *vp);
+	printf("|-------------------------------------------------------------------------------|\n");
+
+  // IMPRIMIR O VALOR DA PRIMEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  // IMPRIMIR O VALOR DA SEGUNDA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  // IMPRIMIR O VALOR DA TERCEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO
+  
+    printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV1\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v1, &v1, *vp1);
+	printf("|\tV2\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v2, &v2, *vp2);
+	printf("|\tV3\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", v3, &v3, *vp3);
+	printf("|---------------------------------------------------------------------------------------|\n");
+
+  // DECLARAR UM POINTER PRINCIPAL PARA INTEIRO E UM POINTER AUXILIAR PARA INTEIRO
+  
+  int *pointer_pri;
+  int *pointer_aux;
+
+  // ALOCAR NA MEMÓRIA DINÂMICA UMA ÁREA PARA 3 INTEIROS E ATRIBUIR O ENDEREÇO AO POINTER PRINCIPAL
+
+	pointer_pri = (int *) malloc(sizeof(int) * 3);
+
+  // ATRIBUIR AO POINTER AUXILIAR O VALOR DO POINTER PRINCIPAL
+  
+  pointer_aux = pointer_pri;
+
+  // EXECUTAR A FUNÇÃO: ler04 SEM RETORNO E COM PARÂMETRO (o pointer principal e um char)
+  
+  ler04(pointer_pri, 'a');
+
+  // IMPRIMIR O VALOR DA PRIMEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO UTILIZANDO O POINTER PRINCIPAL
+  
+    printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV1\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", *pointer_pri, (void*)pointer_pri, *pointer_pri);
+	printf("|---------------------------------------------------------------------------------------|\n");
+
+  // INCREMENTAR O POINTER PRINCIPAL DE UMA POSIÇÃO
+  
+  pointer_pri++;
+
+  // EXECUTAR A FUNÇÃO: ler04 SEM RETORNO E COM PARÂMETRO (o pointer principal e um char)
+
+  ler04(pointer_pri, 'a');
+
+  // IMPRIMIR O VALOR DA SEGUNDA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO UTILIZANDO O POINTER PRINCIPAL
+  
+   printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV2\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", *pointer_pri, (void*)pointer_pri, *pointer_pri);
+	printf("|---------------------------------------------------------------------------------------|\n");
+
+  // INCREMENTAR O POINTER PRINCIPAL DE UMA POSIÇÃO
+  
+  pointer_pri++;
+
+  // EXECUTAR A FUNÇÃO: ler04 SEM RETORNO E COM PARÂMETRO (o pointer principal e um char)
+
+	ler04(pointer_pri, 'a');
+
+  // IMPRIMIR O VALOR DA TERCEIRA VARIÁVEL, SEU ENDEREÇO E SEU VALOR VIA ENDEREÇO UTILIZANDO O POINTER PRINCIPAL
+  
+    printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\t\t|\tValor\t|\tEndereco\t|\tValor via endereco\t|\n");
+	printf("|---------------------------------------------------------------------------------------|\n");
+	printf("|\tV3\t|\t %d \t|\t %d \t|\t\t %d \t\t|\n", *pointer_pri, (void*)pointer_pri, *pointer_pri);
+	printf("|---------------------------------------------------------------------------------------|\n");
+
+  // ATRIBUIR AO POINTER PRINCIPAL O VALOR DO POINTER AUXILIAR
+  
+  pointer_pri = pointer_aux;
+
+  // LIBERAR A MEMÓRIA ALOCADA
+  
+  free(pointer_aux);
+  free(pointer_pri);
+
+  // ATRIBUIR O VALOR NULL AOS DOIS POIUNTERS
+  
+  pointer_aux = NULL;
+  pointer_pri = NULL;
+
+  // FIM DA FUNÇÃO main()
+  	return 0;
+};
+
+	// DECLARAR A FUNÇÃO ler01() COM RETORNO (int) E COM PARÂMETRO (char)
+	// DECLARAR UM VARIÁVEL (int)
+	// LER ESSA VARIÁVEL
+	// RETORNAR O VALOR LIDO
+	
+	int ler01(char){
+		int v;
+		printf("Ler 01: ");
+		scanf("%d", &v);
+		return v;
+	}
+	
+	// DECLARAR A FUNÇÃO ler02() SEM RETORNO E COM PARÂMETROS (ENDEREÇO DA SEGUNDA VARIÁVEL E UM CHAR)
+	// LER O VALOR DO PRIMEIRO PARÂMETRO
+	
+	void ler02(int *endereco, char){
+	    printf("Ler 02: ");
+		scanf("%d", endereco);
+	}
+	
+	// DECLARAR A FUNÇÃO ler03() SEM RETORNO E COM PARÂMETROS (POINTER PARA A TERCEIRA VARIÁVEL E UM CHAR)
+	// LER O VALOR DO PRIMEIRO PARÂMETRO
+	
+	void ler03(int *endereco, char){
+	    printf("Ler 03: ");
+		scanf("%d", endereco);
+	}
+	
+	// DECLARAR A FUNÇÃO ler03() SEM RETORNO E COM PARÂMETROS (POINTER PARA A MEMÓRIA DINÂMICA E UM CHAR)
+	// LER O VALOR DO PRIMEIRO PARÂMETRO
+	
+	void ler04(int *endereco, char){
+	    printf("Ler 04: ");
+		scanf("%d", endereco);
+	}
+
