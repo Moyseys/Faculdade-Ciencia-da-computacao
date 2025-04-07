@@ -1,0 +1,99 @@
+Aluno Moyseys Ferreira Veroni
+RA: 202402395041
+
+================================
+
+#include <stdio.h>
+#include <locale.h>
+
+// Protótipos de Funções
+// ---------------------
+// DECLARAR OS PROTÓTIPOS DAS FUNÇÕES:
+
+// func01: SEM RETORNO E SEM PARÂMETROS
+void func01(void);
+
+// func02: COM RETORNO (int) E SEM PARÂMETROS
+int func02(void);
+
+// func03: SEM RETORNO E COM PARÂMETROS (int e int *)
+void func03(int a, int *b);
+
+// func04: COM RETORNO (int) E COM PARÂMETROS (int e int *)
+int func04(int a, int *b);
+// -------------
+
+// Função main()
+int main() {
+  // DECLARAR 3 VARIÁVEIS (int) COM VALORES IGUAL A ZERO
+  int var01 = 0, var02 = 0, var03 = 0;
+
+  // EXECUTAR A FUNÇÃO setlocale() COM PARÂMETROS (LC_ALL, "")
+  setlocale(LC_ALL, "");
+  
+  // ATRIBUIR VALORES AS VARIÁVEIS
+  var01 = 1;
+  var02 = 2;
+  var03 = 3;
+
+  // EXECUTAR A FUNÇÃO: func01 - SEM RETORNO E SEM PARÂMETROS
+  func01();
+
+  // IMPRIMIR OS VALORES DAS VARIÁVEIS
+  printf("Valor da variável var01: %d\n", var01);
+  printf("Valor da variável var02: %d\n", var02);
+  printf("Valor da variável var03: %d\n", var03);
+
+  // ATRIBUIR VALORES AS VARIÁVEIS
+  var01 = 4;
+  var02 = 5;
+  var03 = 6;
+
+  // EXECUTAR A FUNÇÃO: func02 - COM RETORNO (primeira variável) E SEM PARÂMETROS
+  var01 = func02();
+
+    // IMPRIMIR OS VALORES DAS VARIÁVEIS
+    printf("Valor da variável var01: %d\n", var01);
+    printf("Valor da variável var02: %d\n", var02);
+    printf("Valor da variável var03: %d\n", var03);
+ 
+ // TERMINAR FUNÇÃO main() 
+  return 0;
+}
+
+// FUNÇÃO func01 - SEM RETORNO E SEM PARÂMETROS
+// DECLARAR 3 VARIÁVEIS E ATRIBUIR VALORES
+void func01(void){
+    int a = 10, b = 20, c = 30;  
+};
+
+// FUNÇÃO func02 - COM RETORNO E SEM PARÂMETROS
+int func02(void){
+    // DECLARAR 3 VARIÁVEIS E ATRIBUIR VALORES
+    int a = 10, b = 20, c = 30;
+    // RETORNAR VALOR DA PRIMEIRA VARIÁVEL
+    return a;
+};
+
+// FUNÇÃO func03 - SEM RETORNO E COM PARÂMETROS
+void func03(int a, int *b){
+    // DECLARAR PRIMEIRA VARIÁVEIS E ATRIBUIR VALORES
+    int v1 = 20;
+    // ATRIBUIR VALOR AO PRIMEIRO PARÂMETRO
+    a = 10;
+    // ATRIBUIR VALOR AO ENDEREÇO DA TERCEIRA VARIÁVEL
+    
+    // RETORNAR VALOR DA PRIMEIRA VARIÁVEL
+};
+
+// FUNÇÃO func04 - COM RETORNO E COM PARÂMETROS
+int func04(int a, int *b){
+    // DECLARAR PRIMEIRA VARIÁVEIS E ATRIBUIR VALORES
+    int v1 = 20;
+    // ATRIBUIR VALOR AO PRIMEIRO PARÂMETRO
+    a = 10;
+    // ATRIBUIR VALOR AO ENDEREÇO DA TERCEIRA VARIÁVEL
+    
+    // RETORNAR VALOR DA PRIMEIRA VARIÁVEL
+    return v1;
+};

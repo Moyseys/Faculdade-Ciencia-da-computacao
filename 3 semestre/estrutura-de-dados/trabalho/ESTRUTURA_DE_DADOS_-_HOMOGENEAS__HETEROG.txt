@@ -1,0 +1,85 @@
+ESTRUTURA DE DADOS - HOMOGENEAS, HETEROGENEAS E PONTEIRO
+
+Nome: Moyseys Ferreira Veroni
+RA: 202402395041
+
+
+#include <stdio.h>
+#include <locale.h>
+#include <string.h>
+
+ typedef struct {
+    int matricula;
+    char nome[30]; 
+    char dt_nascimento[9];
+    char curso[20];
+    int turma;
+    float nota1; 
+    float nota2; 
+    float media;
+} Aluno;
+
+void cadastrarAluno(Aluno *a, char){
+    printf("=============================\n      Cadastro de Aluno\n=============================\n");
+    printf("Matricula: ");
+    scanf("%d", &a->matricula);
+    
+    printf("Nome: ");
+    scanf("%s", a->nome);
+    
+    printf("Data de nascimento: ");
+    scanf("%s", a->dt_nascimento);
+    
+    printf("Curso: ");
+    scanf("%s", a->curso);
+    
+    printf("Turma: ");
+    scanf("%d", &a->turma);
+    
+    printf("Nota 1: ");
+    scanf("%f", &a->nota1);
+    
+    printf("Nota 2: ");
+    scanf("%f", &a->nota2);
+    
+    printf("Média: ");
+    scanf("%f", &a->media);
+    
+    printf("\nAluno '%s' cadastrado com sucesso!\n\n", a->nome);
+    system("clear")
+    
+};
+
+void imprimirAluno(Aluno *a, char){
+    printf("=============================\n      Impressão de Aluno\n=============================\n");
+    printf("Matricula: %d \n", a->matricula );
+    
+    printf("Nome:  %s \n", a->nome);
+    
+    printf("Data de nascimento:  %s \n", a->dt_nascimento);
+    
+    printf("Curso:  %s \n", a->curso);
+    
+    printf("Turma:  %d \n", a->turma);
+    
+    printf("Nota 1:  %f \n", a->nota1);
+    
+    printf("Nota 2:  %f \n", a->nota2);
+    
+    printf("Média:  %f \n", a->media);
+};
+
+int main() {
+    Aluno aluno1, aluno2;
+    
+    Aluno *p1 = &aluno1;
+    Aluno *p2 = &aluno2;
+    
+    cadastrarAluno(p1, 'A');
+    cadastrarAluno(p2, 'B');
+    
+    imprimirAluno(p1, 'A');
+    imprimirAluno(p2, 'B');
+
+    return 0;
+}
