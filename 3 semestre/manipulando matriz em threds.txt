@@ -1,0 +1,88 @@
+Nome: Moyseys Veroni
+RA: 202402395041
+
+============================================================================================
+
+#include <stdio.h> 
+#include <stdlib.h>
+#include <unistd.h> 
+#include <sys/wait.h>
+   
+int main()
+{
+    int mat1[2][2] = {{2, 2}, {2, 2}};
+    int mat2[2][2] = {{2, 2}, {2, 2}};
+    
+    int pid;
+    pid_t cpid;
+    
+    int indice = 0;
+    
+
+    for(int i = 0; i < 2; i++){
+        for(int j = 0; j < 2; j++){
+            pid = fork();
+            if(pid == 0){
+                printf("Processo %d  \n\n", pid);
+                int soma = mat1[i][j] + mat2[i][j];
+                
+                char fileName[30];
+                sprintf(fileName, "file_%d_%d.bin", i, j);
+                
+                printf("Salvando %s\n", fileName);
+                printf("Resultado %d\n\n", soma);
+                
+                FILE *file = fopen(fileName, "wb");
+                fwrite(&soma, sizeof(soma), 1, file);
+                
+                exit(0);
+            }
+            
+            indice++;
+        }
+    }
+    
+    for(int i = 0; i < 4; i++){
+        wait(NULL);
+    }
+    
+    int res[2][2];
+    
+    for(int i = 0; i < 2; i++){
+        for(int j = 0; j < 2; j++){
+            char fileName[30];
+            sprintf(fileName, "file_%d_%d.bin", i, j); 
+            
+            int n;
+            FILE *file = fopen(fileName, "rb");
+            if(file == NULL){
+                printf("Erro ao abrir o arquivo %s\n", fileName);
+                return 1; 
+            }
+            
+            size_t lidos = fread(&n, sizeof(n), 1, file);
+            if(lidos != 1){
+                printf("Erro ao ler o arquivo %s\n", fileName);
+                fclose(file);
+                return 1;
+            }
+    
+            fclose(file);
+            
+            res[i][j] = n;
+        }
+    }
+    
+    
+    
+    printf("Matriz resultado:\n[\n");
+    for(int i = 0; i < 2; i++){
+        printf("  [ ");
+        for(int j = 0; j < 2; j++){
+            printf("%d ", res[i][j]);
+        }
+        printf("]\n");
+    }
+    printf("]\n");
+
+} 
