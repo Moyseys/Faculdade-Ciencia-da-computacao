@@ -1,0 +1,81 @@
+
+{% extends "base.html" %}
+
+{% block title %}{{ memory.title }} - Memory Vault{% endblock %}
+
+{% block content %}
+<div class="max-w-4xl mx-auto">
+    <div class="glass-effect rounded-2xl overflow-hidden">
+        {% if memory.image %}
+            <div class="relative h-64 md:h-80 overflow-hidden">
+                <img src="{{ memory.image }}" 
+                     alt="{{ memory.title }}" 
+                     class="w-full h-full object-cover"
+                     onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+                <div style="display: none;" class="h-full bg-secondary/30 flex items-center justify-center">
+                    <i class="fas fa-image text-6xl text-muted-foreground"></i>
+                </div>
+            </div>
+        {% endif %}
+        
+        <div class="p-8">
+            <div class="flex flex-col md:flex-row md:items-start md:justify-between mb-6 space-y-4 md:space-y-0">
+                <div class="flex-1">
+                    <h1 class="text-3xl font-bold text-foreground mb-4">{{ memory.title }}</h1>
+                    <div class="inline-flex items-center px-4 py-2 rounded-full bg-primary/10 text-primary border border-primary/20">
+                        {% if memory.emotion == 'joy' %}
+                            <i class="fas fa-smile mr-2"></i>Joy
+                        {% elif memory.emotion == 'sadness' %}
+                            <i class="fas fa-frown mr-2"></i>Sadness
+                        {% elif memory.emotion == 'anger' %}
+                            <i class="fas fa-angry mr-2"></i>Anger
+                        {% elif memory.emotion == 'fear' %}
+                            <i class="fas fa-surprise mr-2"></i>Fear
+                        {% elif memory.emotion == 'surprise' %}
+                            <i class="fas fa-gasp mr-2"></i>Surprise
+                        {% elif memory.emotion == 'disgust' %}
+                            <i class="fas fa-meh mr-2"></i>Disgust
+                        {% elif memory.emotion == 'love' %}
+                            <i class="fas fa-heart mr-2"></i>Love
+                        {% elif memory.emotion == 'excitement' %}
+                            <i class="fas fa-star mr-2"></i>Excitement
+                        {% elif memory.emotion == 'nostalgia' %}
+                            <i class="fas fa-clock mr-2"></i>Nostalgia
+                        {% else %}
+                            <i class="fas fa-question mr-2"></i>{{ memory.emotion.title() }}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            
+            {% if memory.description %}
+                <div class="prose prose-invert max-w-none mb-8">
+                    <p class="text-muted-foreground leading-relaxed text-lg">{{ memory.description }}</p>
+                </div>
+            {% endif %}
+            
+            <div class="flex flex-col sm:flex-row gap-3 pt-6 border-t border-border/40">
+                <a href="{{ url_for('index') }}" 
+                   class="flex items-center justify-center space-x-2 px-6 py-3 bg-secondary hover:bg-secondary/80 text-secondary-foreground rounded-lg transition-colors">
+                    <i class="fas fa-arrow-left"></i>
+                    <span>Back to Memories</span>
+                </a>
+                <a href="{{ url_for('edit', memory_id=memory.id) }}" 
+                   class="flex items-center justify-center space-x-2 px-6 py-3 bg-amber-500/10 hover:bg-amber-500/20 text-amber-400 border border-amber-500/20 rounded-lg transition-colors">
+                    <i class="fas fa-edit"></i>
+                    <span>Edit Memory</span>
+                </a>
+                <form method="POST" action="{{ url_for('delete', memory_id=memory.id) }}" class="inline flex-1" 
+                      onsubmit="return confirm('Are you sure you want to delete this memory?')">
+                    <button type="submit" 
+                            class="w-full flex items-center justify-center space-x-2 px-6 py-3 bg-destructive/10 hover:bg-destructive/20 text-destructive border border-destructive/20 rounded-lg transition-colors">
+                        <i class="fas fa-trash"></i>
+                        <span>Delete Memory</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

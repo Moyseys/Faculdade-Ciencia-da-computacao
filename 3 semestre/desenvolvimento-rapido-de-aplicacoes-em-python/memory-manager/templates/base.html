@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Memory Manager{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        border: "hsl(217, 32%, 17%)",
+                        input: "hsl(217, 32%, 17%)",
+                        ring: "hsl(224, 76%, 78%)",
+                        background: "hsl(224, 71%, 4%)",
+                        foreground: "hsl(213, 31%, 91%)",
+                        primary: {
+                            DEFAULT: "hsl(220, 91%, 75%)",
+                            foreground: "hsl(220, 91%, 15%)"
+                        },
+                        secondary: {
+                            DEFAULT: "hsl(217, 32%, 17%)",
+                            foreground: "hsl(213, 31%, 91%)"
+                        },
+                        destructive: {
+                            DEFAULT: "hsl(0, 62%, 60%)",
+                            foreground: "hsl(210, 40%, 98%)"
+                        },
+                        muted: {
+                            DEFAULT: "hsl(217, 32%, 17%)",
+                            foreground: "hsl(215, 20%, 65%)"
+                        },
+                        accent: {
+                            DEFAULT: "hsl(217, 32%, 17%)",
+                            foreground: "hsl(213, 31%, 91%)"
+                        },
+                        popover: {
+                            DEFAULT: "hsl(224, 71%, 4%)",
+                            foreground: "hsl(213, 31%, 91%)"
+                        },
+                        card: {
+                            DEFAULT: "hsl(224, 71%, 4%)",
+                            foreground: "hsl(213, 31%, 91%)"
+                        }
+                    },
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            background: linear-gradient(135deg, hsl(224, 71%, 4%) 0%, hsl(217, 32%, 8%) 100%);
+            min-height: 100vh;
+        }
+        
+        .glass-effect {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .hover-lift {
+            transition: all 0.3s ease;
+        }
+        
+        .hover-lift:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+        }
+        
+        .glow {
+            box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, hsl(220, 91%, 75%) 0%, hsl(225, 85%, 65%) 100%);
+            color: hsl(220, 91%, 15%);
+            border: none;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-primary:hover {
+            background: linear-gradient(135deg, hsl(220, 91%, 80%) 0%, hsl(225, 85%, 70%) 100%);
+            transform: translateY(-1px);
+            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+        }
+    </style>
+</head>
+<body class="bg-background text-foreground">
+    <nav class="glass-effect border-b border-border/40 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <a href="{{ url_for('index') }}" class="flex items-center space-x-3 text-xl font-bold text-primary hover:text-primary/80 transition-colors">
+                    <i class="fas fa-brain text-2xl"></i>
+                    <span>Memory Vault</span>
+                </a>
+                <div class="flex items-center space-x-4">
+                    <a href="{{ url_for('index') }}" class="flex items-center space-x-2 px-3 py-2 rounded-lg hover:bg-secondary/50 transition-colors">
+                        <i class="fas fa-home"></i>
+                        <span class="hidden sm:inline">Home</span>
+                    </a>
+                    <a href="{{ url_for('create') }}" class="flex items-center space-x-2 px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-all hover-lift font-medium">
+                        <i class="fas fa-plus"></i>
+                        <span class="hidden sm:inline">New Memory</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="mb-6 p-4 bg-primary/10 border border-primary/20 rounded-lg text-primary flex items-center space-x-3">
+                        <i class="fas fa-info-circle"></i>
+                        <span>{{ message }}</span>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="mt-20 border-t border-border/40 bg-background/50 backdrop-blur-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="text-center text-muted-foreground">
+                <p>&copy; 2024 Memory Vault. Capturing moments with style.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

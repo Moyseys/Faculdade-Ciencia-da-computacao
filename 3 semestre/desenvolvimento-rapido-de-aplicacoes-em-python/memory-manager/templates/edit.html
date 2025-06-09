@@ -1,0 +1,87 @@
+
+{% extends "base.html" %}
+
+{% block title %}Edit Memory - Memory Vault{% endblock %}
+
+{% block content %}
+<div class="max-w-2xl mx-auto">
+    <div class="mb-8">
+        <h1 class="text-3xl font-bold bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent mb-2">
+            Edit Memory
+        </h1>
+        <p class="text-muted-foreground">Update and refine your captured moment</p>
+    </div>
+    
+    <div class="glass-effect rounded-2xl p-8">
+        <form method="POST" class="space-y-6">
+            <div>
+                <label for="title" class="block text-sm font-medium text-foreground mb-2">
+                    Memory Title <span class="text-destructive">*</span>
+                </label>
+                <input type="text" 
+                       id="title" 
+                       name="title" 
+                       value="{{ memory.title }}"
+                       required
+                       class="w-full px-4 py-3 bg-input border border-border rounded-lg text-foreground placeholder-muted-foreground focus:ring-2 focus:ring-primary focus:border-transparent transition-all">
+            </div>
+            
+            <div>
+                <label for="description" class="block text-sm font-medium text-foreground mb-2">
+                    Description
+                </label>
+                <textarea id="description" 
+                          name="description" 
+                          rows="5"
+                          class="w-full px-4 py-3 bg-input border border-border rounded-lg text-foreground placeholder-muted-foreground focus:ring-2 focus:ring-primary focus:border-transparent transition-all resize-none">{{ memory.description }}</textarea>
+            </div>
+            
+            <div>
+                <label for="image" class="block text-sm font-medium text-foreground mb-2">
+                    Image URL
+                </label>
+                <input type="url" 
+                       id="image" 
+                       name="image"
+                       value="{{ memory.image }}"
+                       class="w-full px-4 py-3 bg-input border border-border rounded-lg text-foreground placeholder-muted-foreground focus:ring-2 focus:ring-primary focus:border-transparent transition-all">
+            </div>
+            
+            <div>
+                <label for="emotion" class="block text-sm font-medium text-foreground mb-2">
+                    Emotion <span class="text-destructive">*</span>
+                </label>
+                <select id="emotion" 
+                        name="emotion" 
+                        required
+                        class="w-full px-4 py-3 bg-input border border-border rounded-lg text-foreground focus:ring-2 focus:ring-primary focus:border-transparent transition-all">
+                    <option value="">Select an emotion...</option>
+                    <option value="joy" {% if memory.emotion == 'joy' %}selected{% endif %}>😊 Joy</option>
+                    <option value="sadness" {% if memory.emotion == 'sadness' %}selected{% endif %}>😢 Sadness</option>
+                    <option value="anger" {% if memory.emotion == 'anger' %}selected{% endif %}>😠 Anger</option>
+                    <option value="fear" {% if memory.emotion == 'fear' %}selected{% endif %}>😨 Fear</option>
+                    <option value="surprise" {% if memory.emotion == 'surprise' %}selected{% endif %}>😲 Surprise</option>
+                    <option value="disgust" {% if memory.emotion == 'disgust' %}selected{% endif %}>🤢 Disgust</option>
+                    <option value="love" {% if memory.emotion == 'love' %}selected{% endif %}>❤️ Love</option>
+                    <option value="excitement" {% if memory.emotion == 'excitement' %}selected{% endif %}>🤩 Excitement</option>
+                    <option value="nostalgia" {% if memory.emotion == 'nostalgia' %}selected{% endif %}>🥺 Nostalgia</option>
+                    <option value="pride" {% if memory.emotion == 'pride' %}selected{% endif %}>😤 Pride</option>
+                </select>
+            </div>
+            
+            <div class="flex flex-col sm:flex-row gap-3 pt-6 border-t border-border/40">
+                <a href="{{ url_for('view', memory_id=memory.id) }}" 
+                   class="flex items-center justify-center space-x-2 px-6 py-3 bg-secondary hover:bg-secondary/80 text-secondary-foreground rounded-lg transition-colors">
+                    <i class="fas fa-arrow-left"></i>
+                    <span>Cancel</span>
+                </a>
+                <button type="submit" 
+                        class="flex-1 btn-primary px-6 py-3 rounded-lg font-medium flex items-center justify-center space-x-2 hover-lift">
+                    <i class="fas fa-save"></i>
+                    <span>Update Memory</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}
